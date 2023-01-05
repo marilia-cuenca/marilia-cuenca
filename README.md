@@ -25,7 +25,7 @@ Languages I'm learning and interested in at the moment:
 
 ##
 
-![Snake animation](https://github.com/marilia-cuenca/marilia-cuenca/blob/main/.github/workflows/main.yml)
+![Snake animation](https://github.com/marilia-cuenca/marilia-cuenca/blob/main/.github-contribution-grid-snake.svg)
 
 
 ##
@@ -39,7 +39,3 @@ Get in contact:
 </div>
     
 ##
-  
-  
-    
-    
