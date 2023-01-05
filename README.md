@@ -25,8 +25,7 @@ Languages I'm learning and interested in at the moment:
 
 ##
 
-![Snake animation](https://github.com/marilia-cuenca/marilia-cuenca/blob/main/.github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/marilia-cuenca/marilia-cuenca/blob/output/github-contribution-grid-snake.svg)
 
 ##
  
