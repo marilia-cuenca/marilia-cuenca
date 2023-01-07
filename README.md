@@ -25,6 +25,10 @@ Languages I'm learning and interested in at the moment:
 
 ##
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marilia-cuenca&layout=compact)](https://github.com/marilia-cuenca/github-readme-stats)
+
+##
+
 ![Snake animation](https://github.com/marilia-cuenca/marilia-cuenca/blob/output/github-contribution-grid-snake.svg)
 
 ##
