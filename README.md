@@ -10,7 +10,7 @@ I'm Marilia!
 
 ##
 
-Languages I'm learning and interested in at the moment:
+Languages and technologies I'm learning and interested in at the moment:
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Marilia-javascript" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
